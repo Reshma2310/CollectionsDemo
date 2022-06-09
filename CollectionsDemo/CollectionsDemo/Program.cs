@@ -13,4 +13,3 @@
         }        
     }
 }
-//FindAll(x => x.state.Equals(cityName))-UC8-UserRegistration, UC9-&&, UC10-Count
